@@ -3,3 +3,5 @@ description: Fear, uncertainty and discomfort are your compasses toward growth
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+header-img: img/me.jpg  	#显示在首页的背景图片
+email: You@gmail.com
