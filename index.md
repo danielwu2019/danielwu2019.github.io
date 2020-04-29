@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://github.com/danielwu2019/danielwu2019.github.io/tree/master/img/me.jpg)
+![Branching](https://https://github.com/danielwu2019/danielwu2019.github.io/blob/master/img/me.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
